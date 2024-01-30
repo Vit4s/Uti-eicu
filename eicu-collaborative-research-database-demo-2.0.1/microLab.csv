@@ -1,0 +1,343 @@
+microlabid,patientunitstayid,culturetakenoffset,culturesite,organism,antibiotic,sensitivitylevel
+840759,2597777,1343,"Sputum, Expectorated",mixed flora,"",""
+840628,2597777,2723,"Sputum, Expectorated",mixed flora,"",""
+833113,2608936,1,Bronchial Lavage,mixed flora,"",""
+839342,2621338,22,"Sputum, Expectorated",gram negative rods,"",""
+839341,2621338,22,"Sputum, Expectorated",gram positive cocci,"",""
+833396,2628859,-10,Bronchial Lavage,mixed flora,"",""
+840054,2635167,298,"Sputum, Expectorated",mixed flora,"",""
+1552311,3046540,212,"Urine, Catheter Specimen",Other,"",""
+1563049,3046540,-81,"Sputum, Tracheal Specimen",Other,meropenam,Sensitive
+1562998,3046540,212,"Urine, Catheter Specimen",Other,"",""
+1563036,3046540,27,Nasopharynx,Other,"",""
+1562993,3046540,-81,"Sputum, Tracheal Specimen",Other,"",""
+1563047,3046540,-81,"Sputum, Tracheal Specimen",Other,gentamicin,Sensitive
+1570007,3046540,-81,"Sputum, Tracheal Specimen",Other,"",""
+1562997,3046540,31,Rectal Swab,Other,"",""
+1563046,3046540,-81,"Sputum, Tracheal Specimen",Other,ertapenem,Sensitive
+1570009,3046540,-81,"Sputum, Tracheal Specimen",Other,"",""
+1562994,3046540,-81,"Sputum, Tracheal Specimen",Other,"",""
+1570008,3046540,-81,"Sputum, Tracheal Specimen",Other,"",""
+1570006,3046540,-81,"Sputum, Tracheal Specimen",Other,"",""
+1563050,3046540,-81,"Sputum, Tracheal Specimen",Other,piperacillin/tazobactam,Sensitive
+1563038,3046540,-81,"Sputum, Tracheal Specimen",Other,ampicillin/sulbactam,Sensitive
+1563039,3046540,-81,"Sputum, Tracheal Specimen",Other,aztreonam,Sensitive
+1563037,3046540,-81,"Sputum, Tracheal Specimen",Other,ampicillin,Resistant
+1563045,3046540,-81,"Sputum, Tracheal Specimen",Other,ceftriaxone,Sensitive
+1562995,3046540,-81,"Sputum, Tracheal Specimen",Other,"",""
+1563044,3046540,-81,"Sputum, Tracheal Specimen",Other,trimethoprim/sulfamethoxazole,Sensitive
+1563042,3046540,-81,"Sputum, Tracheal Specimen",Other,ceftazidime,Sensitive
+1563041,3046540,-81,"Sputum, Tracheal Specimen",Other,cefepime,Sensitive
+1563040,3046540,-81,"Sputum, Tracheal Specimen",Other,cefazolin,Sensitive
+1563043,3046540,-81,"Sputum, Tracheal Specimen",Other,tobramycin,Sensitive
+1563048,3046540,-81,"Sputum, Tracheal Specimen",Other,levofloxacin,Sensitive
+1570010,3046540,-81,"Sputum, Tracheal Specimen",Other,"",""
+1623857,3132106,24,"Sputum, Tracheal Specimen",Other,"",""
+1623851,3132106,-25,Nasopharynx,no growth,"",""
+1620257,3132505,-189,"Blood, Venipuncture",no growth,"",""
+1576930,3132505,13,Nasopharynx,no growth,"",""
+1620256,3132505,-198,"Blood, Venipuncture",no growth,"",""
+1602331,3132615,-41,"Blood, Venipuncture",gram positive cocci,"",""
+1602334,3132615,24,"Sputum, Tracheal Specimen",Other,"",""
+1602335,3132615,24,"Sputum, Tracheal Specimen",Other,"",""
+1602336,3132615,-41,"Blood, Venipuncture",Other,"",""
+1581766,3132859,2349,"Sputum, Tracheal Specimen",Acinetobacter baumanii,meropenam,Sensitive
+1613829,3132859,519,Other,no growth,"",""
+1581763,3132859,2349,"Sputum, Tracheal Specimen",Acinetobacter baumanii,ciprofloxacin,Sensitive
+1613828,3132859,-51,Nasopharynx,no growth,"",""
+1581761,3132859,2349,"Sputum, Tracheal Specimen",Acinetobacter baumanii,amikacin,Sensitive
+1581760,3132859,1669,"Urine, Catheter Specimen",no growth,"",""
+1581762,3132859,2349,"Sputum, Tracheal Specimen",Acinetobacter baumanii,ceftriaxone,Resistant
+1581764,3132859,2349,"Sputum, Tracheal Specimen",Acinetobacter baumanii,gentamicin,Sensitive
+1581765,3132859,2349,"Sputum, Tracheal Specimen",Acinetobacter baumanii,Other,Sensitive
+1613060,3133636,192,"Sputum, Tracheal Specimen",gram negative rods,"",""
+1613059,3133636,107,Nasopharynx,Staphylococcus aureus,"",""
+1632667,3133874,9,Nasopharynx,Other,"",""
+1633541,3134824,33,Nasopharynx,Staphylococcus aureus,"",""
+1633542,3134824,33,"Blood, Venipuncture",no growth,"",""
+1633540,3134824,33,Nasopharynx,Other,"",""
+1633543,3134824,33,"Urine, Voided Specimen",no growth,"",""
+1616958,3135511,854,"Blood, Venipuncture",no growth,"",""
+1616943,3135511,-586,"Blood, Venipuncture",no growth,"",""
+1616942,3135511,27,Nasopharynx,Other,"",""
+1603171,3135511,-336,"Blood, Venipuncture",no growth,"",""
+1603172,3135511,-336,"Blood, Venipuncture",no growth,"",""
+1603170,3135511,-262,"Urine, Voided Specimen",no growth,"",""
+1635425,3135611,-985,"Blood, Venipuncture",no growth,"",""
+1635666,3135611,388,"Sputum, Tracheal Specimen",gram positive cocci,"",""
+1635734,3135611,310,"Urine, Catheter Specimen",no growth,"",""
+1635424,3135611,-982,"Blood, Venipuncture",no growth,"",""
+1627567,3136458,8,Nasopharynx,no growth,"",""
+1630925,3136458,1502,Stool,Clostridium difficile,"",""
+1630974,3136459,-2557,Pleural Fluid,no growth,"",""
+1627547,3136459,-7022,"Blood, Venipuncture",no growth,"",""
+1609761,3136459,3009,"Sputum, Tracheal Specimen",Other,"",""
+1609762,3136459,-2557,Pleural Fluid,no growth,"",""
+1627546,3136459,-5563,"Blood, Venipuncture",no growth,"",""
+1609758,3136459,3009,"Sputum, Tracheal Specimen",no growth,"",""
+1580781,3136459,1139,"Urine, Voided Specimen",Streptococcus pneumoniae,"",""
+1609760,3136459,3009,"Sputum, Tracheal Specimen",Other,"",""
+1609759,3136459,3009,"Sputum, Tracheal Specimen",yeast,"",""
+1614220,3136745,-370,"Urine, Catheter Specimen",no growth,"",""
+1624442,3136745,4748,"Urine, Catheter Specimen",no growth,"",""
+1635641,3137086,68,Nasopharynx,no growth,"",""
+1606573,3138091,-4901,"Sputum, Tracheal Specimen",Other,cefuroxime,Sensitive
+1606566,3138091,-4901,"Sputum, Tracheal Specimen",Other,ampicillin/sulbactam,Sensitive
+1606560,3138091,-4901,"Sputum, Tracheal Specimen",Staphylococcus aureus,ceftriaxone,Sensitive
+1606559,3138091,-4901,"Sputum, Tracheal Specimen",Staphylococcus aureus,amoxicillin/clavulonic acid,Sensitive
+1606558,3138091,-4901,"Sputum, Tracheal Specimen",Staphylococcus aureus,ampicillin/sulbactam,Sensitive
+1606556,3138091,-4901,"Sputum, Tracheal Specimen",Staphylococcus aureus,tetracycline,Sensitive
+1606562,3138091,-4901,"Sputum, Tracheal Specimen",Staphylococcus aureus,cefazolin,Sensitive
+1606561,3138091,-4901,"Sputum, Tracheal Specimen",Staphylococcus aureus,clindamycin,Sensitive
+1606564,3138091,-4901,"Sputum, Tracheal Specimen",gram negative rods,"",""
+1606565,3138091,-4901,"Sputum, Tracheal Specimen",Candida albicans,"",""
+1606563,3138091,-4901,"Sputum, Tracheal Specimen",Staphylococcus aureus,Other,Sensitive
+1606570,3138091,-4901,"Sputum, Tracheal Specimen",Other,ceftriaxone,Sensitive
+1606569,3138091,-4901,"Sputum, Tracheal Specimen",Other,aztreonam,Sensitive
+1606555,3138091,-4901,"Sputum, Tracheal Specimen",Staphylococcus aureus,oxacillin,Sensitive
+1606568,3138091,-4901,"Sputum, Tracheal Specimen",Other,ampicillin,Sensitive
+1606567,3138091,-4901,"Sputum, Tracheal Specimen",Other,amikacin,Sensitive
+1606572,3138091,-4901,"Sputum, Tracheal Specimen",Other,ciprofloxacin,Sensitive
+1606571,3138091,-4901,"Sputum, Tracheal Specimen",Other,cefazolin,Sensitive
+1606557,3138091,-4901,"Sputum, Tracheal Specimen",Staphylococcus aureus,vancomycin,Sensitive
+1606574,3138091,-4901,"Sputum, Tracheal Specimen",Other,gentamicin,Sensitive
+1606575,3138091,-4901,"Sputum, Tracheal Specimen",Other,Other,Sensitive
+1606576,3138091,-4901,"Sputum, Tracheal Specimen",Other,meropenam,Sensitive
+1606578,3138091,-4901,"Sputum, Tracheal Specimen",yeast,"",""
+1606577,3138091,-4901,"Sputum, Tracheal Specimen",gram negative rods,"",""
+1608237,3138092,-116,"Sputum, Tracheal Specimen",Other,"",""
+1608236,3138092,-116,"Sputum, Tracheal Specimen",Other,"",""
+1606545,3138092,-116,"Sputum, Tracheal Specimen",Staphylococcus aureus,ampicillin/sulbactam,Sensitive
+1606544,3138092,-116,"Sputum, Tracheal Specimen",yeast,"",""
+1606546,3138092,-116,"Sputum, Tracheal Specimen",Staphylococcus aureus,amoxicillin/clavulonic acid,Sensitive
+1606550,3138092,-116,"Sputum, Tracheal Specimen",Staphylococcus aureus,oxacillin,Sensitive
+1606549,3138092,-116,"Sputum, Tracheal Specimen",Staphylococcus aureus,Other,Sensitive
+1606547,3138092,-116,"Sputum, Tracheal Specimen",Staphylococcus aureus,ceftriaxone,Sensitive
+1606548,3138092,-116,"Sputum, Tracheal Specimen",Staphylococcus aureus,clindamycin,Sensitive
+1606553,3138092,-96,"Blood, Venipuncture",no growth,"",""
+1606554,3138092,-76,"Blood, Venipuncture",no growth,"",""
+1606552,3138092,-116,"Sputum, Tracheal Specimen",Staphylococcus aureus,vancomycin,Sensitive
+1606551,3138092,-116,"Sputum, Tracheal Specimen",Staphylococcus aureus,tetracycline,Sensitive
+1631231,3138448,-72,"Blood, Venipuncture",no growth,"",""
+1631171,3138448,-2,Nasopharynx,no growth,"",""
+1634731,3139208,167,Nasopharynx,no growth,"",""
+1613312,3139532,5643,Other,no growth,"",""
+1630027,3139532,3868,"Blood, Venipuncture",no growth,"",""
+1621593,3139532,-292,"Blood, Venipuncture",no growth,"",""
+1615316,3139532,8543,"Urine, Voided Specimen",no growth,"",""
+1625993,3139532,503,Nasopharynx,no growth,"",""
+1621592,3139532,-282,"Blood, Venipuncture",no growth,"",""
+1621503,3139532,503,"Sputum, Tracheal Specimen",Other,"",""
+1635313,3139600,-3988,CSF,no growth,"",""
+1635311,3139600,-4443,"Blood, Venipuncture",no growth,"",""
+1635301,3139600,-5863,"Urine, Catheter Specimen",Klebsiella pneumoniae,nitrofurantoin,Sensitive
+1635371,3139600,-1603,"Blood, Venipuncture",no growth,"",""
+1635306,3139600,-5863,"Urine, Catheter Specimen",Escherichia coli,nitrofurantoin,Sensitive
+1635370,3139600,-1603,"Blood, Venipuncture",no growth,"",""
+1635309,3139600,-5863,"Urine, Catheter Specimen",Escherichia coli,ampicillin,Sensitive
+1635310,3139600,-5863,"Urine, Catheter Specimen",Escherichia coli,cefazolin,Sensitive
+1635312,3139600,-4428,"Blood, Venipuncture",no growth,"",""
+1635300,3139600,-5863,"Urine, Catheter Specimen",Klebsiella pneumoniae,gentamicin,Sensitive
+1635295,3139600,-5878,"Blood, Venipuncture",no growth,"",""
+1635297,3139600,-5863,"Urine, Catheter Specimen",Klebsiella pneumoniae,ampicillin,Resistant
+1635299,3139600,-5863,"Urine, Catheter Specimen",Klebsiella pneumoniae,ciprofloxacin,Sensitive
+1635296,3139600,-5868,"Blood, Venipuncture",no growth,"",""
+1635298,3139600,-5863,"Urine, Catheter Specimen",Klebsiella pneumoniae,cefazolin,Sensitive
+1635372,3139600,104,Nasopharynx,no growth,"",""
+1635305,3139600,-5863,"Urine, Catheter Specimen",Escherichia coli,gentamicin,Sensitive
+1635308,3139600,-5863,"Urine, Catheter Specimen",Escherichia coli,amikacin,Sensitive
+1635373,3139600,104,"Sputum, Tracheal Specimen",Candida albicans,"",""
+1635302,3139600,-5863,"Urine, Catheter Specimen",Klebsiella pneumoniae,tetracycline,Sensitive
+1635303,3139600,-5863,"Urine, Catheter Specimen",Klebsiella pneumoniae,amikacin,Sensitive
+1635304,3139600,-5863,"Urine, Catheter Specimen",Escherichia coli,ciprofloxacin,Sensitive
+1635307,3139600,-5863,"Urine, Catheter Specimen",Escherichia coli,tetracycline,Sensitive
+1631581,3139700,-903,"Blood, Venipuncture",no growth,"",""
+1631582,3139700,-22,Nasopharynx,no growth,"",""
+1631580,3139700,-907,"Blood, Venipuncture",no growth,"",""
+1630318,3140049,-9931,Nasopharynx,no growth,"",""
+1630192,3140049,-371,"Urine, Catheter Specimen",gram negative rods,Other,""
+1630319,3140049,359,"Urine, Catheter Specimen",no growth,"",""
+1630194,3140049,-371,"Urine, Catheter Specimen",gram negative rods,Other,""
+1630316,3140049,-541,"Blood, Venipuncture",gram negative rods,"",""
+1630193,3140049,-371,"Urine, Catheter Specimen",gram negative rods,Other,""
+1630317,3140049,-541,"Blood, Venipuncture",gram positive cocci,"",""
+1631956,3140159,-4,Nasopharynx,no growth,"",""
+1632666,3140371,31,Nasopharynx,Other,"",""
+1610599,3140490,-3726,Nasopharynx,no growth,"",""
+1610598,3140490,-156,"Urine, Catheter Specimen",Candida albicans,"",""
+1610596,3140490,-156,"Sputum, Tracheal Specimen",mixed flora,"",""
+1610597,3140490,-156,"Urine, Catheter Specimen",no growth,"",""
+1579350,3140613,4,Nasopharynx,no growth,"",""
+1589938,3141080,160,"Urine, Catheter Specimen",Other,tobramycin,Sensitive
+1589926,3141080,175,"Blood, Venipuncture",gram negative rods,"",""
+1589942,3141080,160,"Urine, Catheter Specimen",Other,cefoxitin,Sensitive
+1589941,3141080,160,"Urine, Catheter Specimen",Other,ampicillin/sulbactam,Resistant
+1589940,3141080,160,"Urine, Catheter Specimen",Other,ceftriaxone,Sensitive
+1589937,3141080,160,"Urine, Catheter Specimen",Other,gentamicin,Sensitive
+1589928,3141080,175,"Blood, Venipuncture",Pseudomonas aeruginosa,aztreonam,Sensitive
+1589927,3141080,175,"Blood, Venipuncture",Pseudomonas aeruginosa,ciprofloxacin,Sensitive
+1589931,3141080,175,"Blood, Venipuncture",Pseudomonas aeruginosa,gentamicin,Sensitive
+1589930,3141080,175,"Blood, Venipuncture",Pseudomonas aeruginosa,piperacillin/tazobactam,Sensitive
+1589929,3141080,175,"Blood, Venipuncture",Pseudomonas aeruginosa,imipenem/cilastatin,Sensitive
+1589935,3141080,160,"Urine, Catheter Specimen",gram negative rods,"",""
+1589936,3141080,160,"Urine, Catheter Specimen",Other,ciprofloxacin,Sensitive
+1589934,3141080,160,"Blood, Venipuncture",no growth,"",""
+1589933,3141080,175,"Blood, Venipuncture",Pseudomonas aeruginosa,ceftazidime,Sensitive
+1589932,3141080,175,"Blood, Venipuncture",Pseudomonas aeruginosa,tobramycin,Sensitive
+1589939,3141080,160,"Urine, Catheter Specimen",Other,trimethoprim/sulfamethoxazole,Sensitive
+1628892,3142620,121,Nasopharynx,Other,"",""
+1628893,3142620,121,Nasopharynx,Staphylococcus aureus,"",""
+1609524,3142950,-1073,Nasopharynx,Other,"",""
+1608780,3142950,1115,"Urine, Voided Specimen",Other,"",""
+1609523,3142950,-1073,Nasopharynx,no growth,"",""
+1620230,3143195,-2855,"Blood, Venipuncture",no growth,"",""
+1620231,3143195,-2850,"Blood, Venipuncture",no growth,"",""
+1593447,3143360,-2,Nasopharynx,Other,"",""
+1593449,3143360,28,"Sputum, Tracheal Specimen",Other,"",""
+1593448,3143360,28,"Sputum, Tracheal Specimen",Other,"",""
+1619846,3144143,-158,"Blood, Venipuncture",no growth,"",""
+1619845,3144143,-158,"Blood, Venipuncture",no growth,"",""
+1634203,3144334,-5537,"Blood, Venipuncture",no growth,"",""
+1634204,3144334,-5457,"Blood, Venipuncture",no growth,"",""
+1630846,3144334,1043,"Urine, Catheter Specimen",Staphylococcus aureus,cefazolin,Sensitive
+1634205,3144334,-5247,Nasopharynx,no growth,"",""
+1630774,3144334,8,"Sputum, Tracheal Specimen",yeast,"",""
+1630845,3144334,1043,"Urine, Catheter Specimen",Staphylococcus aureus,ampicillin/sulbactam,Sensitive
+1630773,3144334,8,"Sputum, Tracheal Specimen",Other,"",""
+1630844,3144334,1043,"Urine, Catheter Specimen",Staphylococcus aureus,vancomycin,Sensitive
+1630843,3144334,1043,"Urine, Catheter Specimen",yeast,"",""
+1630851,3144334,1043,"Urine, Catheter Specimen",Staphylococcus aureus,amoxicillin/clavulonic acid,Sensitive
+1630850,3144334,1043,"Urine, Catheter Specimen",Staphylococcus aureus,tetracycline,Sensitive
+1630849,3144334,1043,"Urine, Catheter Specimen",Staphylococcus aureus,oxacillin,Sensitive
+1630848,3144334,1043,"Urine, Catheter Specimen",Staphylococcus aureus,clindamycin,Sensitive
+1630847,3144334,1043,"Urine, Catheter Specimen",Staphylococcus aureus,ceftriaxone,Sensitive
+1595020,3144745,-336,"Urine, Catheter Specimen",no growth,"",""
+1595021,3144745,-14,Nasopharynx,no growth,"",""
+1617682,3145378,85,"Urine, Catheter Specimen",no growth,"",""
+1617683,3145378,6,Nasopharynx,no growth,"",""
+1609763,3145787,14800,"Sputum, Tracheal Specimen",Other,"",""
+1629467,3145787,803,"Urine, Catheter Specimen",no growth,"",""
+1629468,3145787,1522,Other,yeast,"",""
+1629469,3145787,1522,Other,yeast,"",""
+1610876,3145787,88,Nasopharynx,no growth,"",""
+1633773,3148506,13,"Sputum, Tracheal Specimen",no growth,"",""
+1633207,3148997,300,Nasopharynx,no growth,"",""
+1579334,3148997,-30,"Urine, Voided Specimen",Escherichia coli,nitrofurantoin,Sensitive
+1633287,3148997,-135,"Blood, Venipuncture",no growth,"",""
+1579343,3148997,-30,"Urine, Voided Specimen",Escherichia coli,ampicillin,Resistant
+1633286,3148997,-135,"Blood, Venipuncture",no growth,"",""
+1579341,3148997,-30,"Urine, Voided Specimen",Escherichia coli,ciprofloxacin,Sensitive
+1579342,3148997,-30,"Urine, Voided Specimen",Escherichia coli,gentamicin,Sensitive
+1579332,3148997,-30,"Urine, Voided Specimen",gram negative rods,"",""
+1579339,3148997,-30,"Urine, Voided Specimen",Escherichia coli,ceftriaxone,Sensitive
+1579344,3148997,-30,"Urine, Voided Specimen",Escherichia coli,ampicillin/sulbactam,Intermediate
+1579340,3148997,-30,"Urine, Voided Specimen",Escherichia coli,cefuroxime,Sensitive
+1579337,3148997,-30,"Urine, Voided Specimen",Escherichia coli,cefotaxime,Sensitive
+1579335,3148997,-30,"Urine, Voided Specimen",Escherichia coli,piperacillin/tazobactam,Sensitive
+1579345,3148997,-30,"Urine, Voided Specimen",Escherichia coli,aztreonam,Sensitive
+1579347,3148997,-30,"Urine, Voided Specimen",Escherichia coli,cefepime,Sensitive
+1579338,3148997,-30,"Urine, Voided Specimen",Escherichia coli,ceftazidime,Sensitive
+1579336,3148997,-30,"Urine, Voided Specimen",Escherichia coli,tobramycin,Sensitive
+1579333,3148997,-30,"Urine, Voided Specimen",Escherichia coli,levofloxacin,Sensitive
+1579346,3148997,-30,"Urine, Voided Specimen",Escherichia coli,cefazolin,Sensitive
+1635902,3149046,1346,"Sputum, Tracheal Specimen",gram negative rods,"",""
+1635480,3149046,-262,"Blood, Venipuncture",no growth,"",""
+1635903,3149046,1346,"Sputum, Tracheal Specimen",gram positive cocci,"",""
+1615230,3149078,-5349,Nasopharynx,no growth,"",""
+1612393,3149587,335,"Sputum, Tracheal Specimen",gram positive rods,"",""
+1612394,3149587,-17,Nasopharynx,Other,"",""
+1612392,3149587,335,"Sputum, Tracheal Specimen",gram positive cocci,"",""
+1600946,3149953,-133,"Blood, Venipuncture",no growth,"",""
+1600987,3149953,146,Nasopharynx,Other,"",""
+1600947,3149953,-133,"Blood, Venipuncture",no growth,"",""
+1579700,3150025,-13,"Blood, Venipuncture",no growth,"",""
+1618432,3150025,-89,"Urine, Catheter Specimen",no growth,"",""
+1631432,3151670,-24,Nasopharynx,Other,"",""
+1600924,3152607,1866,Pleural Fluid,no growth,"",""
+1630840,3152607,6,Nasopharynx,Other,"",""
+1600925,3152607,1866,Pleural Fluid,no growth,"",""
+1600926,3152607,1866,Pleural Fluid,no growth,"",""
+1614963,3152675,-316,"Blood, Venipuncture",no growth,"",""
+1614964,3152675,-210,"Urine, Catheter Specimen",no growth,"",""
+1614962,3152675,-316,"Blood, Venipuncture",no growth,"",""
+1607828,3153393,28,Other,gram positive cocci - in chains,"",""
+1607827,3153393,-18,"Blood, Venipuncture",gram positive rods,"",""
+1584277,3153894,5504,"Blood, Venipuncture",no growth,"",""
+1615229,3153894,178,"Blood, Venipuncture",no growth,"",""
+1584276,3153894,5499,"Blood, Venipuncture",no growth,"",""
+1615228,3153894,21,"Sputum, Tracheal Specimen",Other,"",""
+1634634,3154460,-36,Nasopharynx,no growth,"",""
+1622107,3154481,1683,"Sputum, Expectorated",Candida albicans,"",""
+1622106,3154481,1683,"Sputum, Expectorated",mixed flora,"",""
+1622105,3154481,1683,"Sputum, Expectorated",yeast,"",""
+1622108,3154481,1684,"Urine, Catheter Specimen",no growth,"",""
+1633194,3155533,454,"Sputum, Tracheal Specimen",no growth,"",""
+1633148,3155533,-1380,"Sputum, Tracheal Specimen",Other,"",""
+1633193,3155533,454,"Sputum, Tracheal Specimen",Other,"",""
+1633192,3155533,454,"Sputum, Tracheal Specimen",Other,"",""
+1592584,3156122,26,Nasopharynx,no growth,"",""
+1592590,3156122,-295,"Blood, Venipuncture",no growth,"",""
+1592589,3156122,-295,"Blood, Venipuncture",no growth,"",""
+1610875,3156990,14,Nasopharynx,no growth,"",""
+1616590,3157608,0,Nasopharynx,Staphylococcus aureus,"",""
+1632695,3157910,-532,"Blood, Venipuncture",no growth,"",""
+1632696,3157910,-256,"Urine, Voided Specimen",no growth,"",""
+1632694,3157910,-532,"Blood, Venipuncture",no growth,"",""
+1606744,3158680,-2901,"Sputum, Tracheal Specimen",no growth,"",""
+1606742,3158680,-6051,"Blood, Venipuncture",no growth,"",""
+1606851,3158680,599,Nasopharynx,no growth,"",""
+1606743,3158680,-6021,"Blood, Venipuncture",no growth,"",""
+1625341,3159526,-373,"Blood, Venipuncture",Pseudomonas aeruginosa,"",""
+1625449,3159526,10241,"Sputum, Expectorated",Pseudomonas aeruginosa,piperacillin/tazobactam,Sensitive
+1628995,3159526,9994,"Blood, Venipuncture",no growth,"",""
+1625342,3159526,2747,Nasopharynx,Other,"",""
+1625443,3159526,10241,"Sputum, Expectorated",Pseudomonas aeruginosa,aztreonam,Sensitive
+1633434,3159526,21417,"Blood, Venipuncture",no growth,"",""
+1625452,3159526,10241,"Sputum, Expectorated",gram positive cocci,"",""
+1633435,3159526,21387,"Blood, Venipuncture",no growth,"",""
+1625442,3159526,10241,"Sputum, Expectorated",Pseudomonas aeruginosa,amikacin,Sensitive
+1625450,3159526,10241,"Sputum, Expectorated",Pseudomonas aeruginosa,tobramycin,Sensitive
+1625447,3159526,10241,"Sputum, Expectorated",Pseudomonas aeruginosa,imipenem/cilastatin,Sensitive
+1625445,3159526,10241,"Sputum, Expectorated",Pseudomonas aeruginosa,ciprofloxacin,Sensitive
+1625444,3159526,10241,"Sputum, Expectorated",Pseudomonas aeruginosa,ceftazidime,Sensitive
+1625446,3159526,10241,"Sputum, Expectorated",Pseudomonas aeruginosa,gentamicin,Sensitive
+1625448,3159526,10241,"Sputum, Expectorated",Pseudomonas aeruginosa,levofloxacin,Sensitive
+1625453,3159526,8816,CSF,no growth,"",""
+1625451,3159526,10241,"Sputum, Expectorated",yeast,"",""
+1605127,3159826,425,Skin,Staphylococcus aureus,amoxicillin/clavulonic acid,Resistant
+1605167,3159826,-220,"Urine, Voided Specimen",gram negative rods,"",""
+1605136,3159826,425,Skin,Staphylococcus aureus,oxacillin,Resistant
+1605165,3159826,35,Nasopharynx,no growth,"",""
+1605126,3159826,425,Skin,gram positive cocci,"",""
+1605173,3159826,-220,"Urine, Voided Specimen",Pseudomonas aeruginosa,tobramycin,Sensitive
+1605129,3159826,425,Skin,Staphylococcus aureus,clindamycin,Sensitive
+1605169,3159826,-220,"Urine, Voided Specimen",Pseudomonas aeruginosa,cefepime,Sensitive
+1605131,3159826,425,Skin,Staphylococcus aureus,erythromycin,Sensitive
+1605168,3159826,-220,"Urine, Voided Specimen",Pseudomonas aeruginosa,ciprofloxacin,Resistant
+1605132,3159826,425,Skin,Staphylococcus aureus,gentamicin,Sensitive
+1605175,3159826,-220,"Urine, Voided Specimen",Pseudomonas aeruginosa,ceftazidime,Sensitive
+1605128,3159826,425,Skin,Staphylococcus aureus,ceftriaxone,Resistant
+1605174,3159826,-220,"Urine, Voided Specimen",Pseudomonas aeruginosa,aztreonam,Sensitive
+1605130,3159826,425,Skin,Staphylococcus aureus,ciprofloxacin,Resistant
+1605170,3159826,-220,"Urine, Voided Specimen",Pseudomonas aeruginosa,gentamicin,Sensitive
+1605135,3159826,425,Skin,Staphylococcus aureus,Other,Sensitive
+1605166,3159826,-203,"Blood, Venipuncture",no growth,"",""
+1605139,3159826,425,Skin,Pseudomonas aeruginosa,aztreonam,Sensitive
+1605172,3159826,-220,"Urine, Voided Specimen",Pseudomonas aeruginosa,piperacillin/tazobactam,Sensitive
+1605134,3159826,425,Skin,Staphylococcus aureus,linezolid,Sensitive
+1605171,3159826,-220,"Urine, Voided Specimen",Pseudomonas aeruginosa,levofloxacin,Resistant
+1605133,3159826,425,Skin,Staphylococcus aureus,levofloxacin,Resistant
+1605176,3159826,-1245,"Blood, Venipuncture",no growth,"",""
+1605221,3159826,605,Stool,Other,"",""
+1605137,3159826,425,Skin,Staphylococcus aureus,tetracycline,Sensitive
+1605138,3159826,425,Skin,Staphylococcus aureus,vancomycin,Sensitive
+1605140,3159826,425,Skin,Pseudomonas aeruginosa,ceftazidime,Sensitive
+1605141,3159826,425,Skin,Pseudomonas aeruginosa,ciprofloxacin,Resistant
+1605143,3159826,425,Skin,Pseudomonas aeruginosa,gentamicin,Sensitive
+1605142,3159826,425,Skin,Pseudomonas aeruginosa,cefepime,Sensitive
+1605146,3159826,425,Skin,Pseudomonas aeruginosa,tobramycin,Sensitive
+1605145,3159826,425,Skin,Pseudomonas aeruginosa,piperacillin/tazobactam,Sensitive
+1605144,3159826,425,Skin,Pseudomonas aeruginosa,levofloxacin,Intermediate
+1590725,3160468,-293,"Blood, Venipuncture",no growth,"",""
+1590727,3160468,7,Nasopharynx,no growth,"",""
+1590726,3160468,-293,"Blood, Venipuncture",no growth,"",""

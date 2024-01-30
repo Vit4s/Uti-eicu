@@ -1,0 +1,113 @@
+cplinfectid,patientunitstayid,activeupondischarge,cplinfectdiseaseoffset,infectdiseasesite,infectdiseaseassessment,responsetotherapy,treatment
+3329,249328,True,1153,Urinary tract,Definite infection,"",""
+3234,260860,False,1451,Urinary tract,Definite infection,"",""
+1149,260860,True,2866,Urinary tract,Definite infection,"",""
+255,260860,False,1451,Skin & Soft tissue,Definite infection,"",""
+328,260860,True,2866,Skin & Soft tissue,Definite infection,"",""
+3115,264276,True,3236,Lung,Definite infection,"",""
+3103,272886,True,2314,Lung,Definite infection,"",""
+5337,292154,True,91,Other,Definite infection,"",Directed
+3048,294032,True,144,Lung,Definite infection,"",""
+3157,295916,True,2316,Lung,Definite infection,"",""
+4976,295916,True,2316,CNS,Definite infection,"",""
+5267,295916,False,2315,Lung,Possible infection,"",""
+2946,301185,True,210,Lung,Definite infection,"",""
+20884,472969,True,2394,Urinary tract,Definite infection,"",""
+21300,496980,True,80,CNS,Definite infection,"",""
+26095,960567,False,327,Sinus,Definite infection,"",""
+26109,960567,True,364,Sinus,Definite infection,"",""
+26920,965083,True,4623,Urinary tract,Definite infection,"",""
+26003,966066,True,35,Urinary tract,Probable infection,"",""
+23776,970720,True,3404,Urinary tract,Definite infection,"",""
+26628,970984,False,6739,Blood,Definite infection,"",""
+24741,970984,True,8490,Blood,Definite infection,"",""
+25163,971871,True,260,Other,Definite infection,"",""
+33043,1117947,True,22470,Other,Definite infection,"",Directed
+47357,1439835,True,2690,Lung,Definite infection,"",""
+76557,2573914,True,23,Intra-abdominal,Possible infection,"",Prophylactic
+72070,2574532,False,1508,Urinary tract,Definite infection,"",""
+90479,2580992,False,821,Lung,Possible infection,"",Empiric
+100210,2580992,False,1516,Lung,Definite infection,"",Directed
+90478,2580992,False,1099,Lung,Possible infection,"",Empiric
+100209,2580992,True,1516,Lung,Definite infection,"",Directed
+74845,2584022,True,2584,Blood,Definite infection,"",""
+98878,2586449,True,53,Lung,Definite infection,"",Directed
+99908,2589516,True,257,Lung,Definite infection,"",Directed
+87753,2592641,False,2455,Lung,Definite infection,"",Empiric
+87752,2592641,True,3998,Lung,Definite infection,"",Empiric
+78626,2594234,True,1221,Skin & Soft tissue,Definite infection,"",Empiric
+79519,2594234,False,62,Urinary tract,Definite infection,"",Empiric
+79492,2594234,True,1221,Urinary tract,Definite infection,"",Empiric
+78627,2594234,False,62,Skin & Soft tissue,Definite infection,"",Empiric
+75465,2595771,True,441,Blood,Possible infection,"",""
+75735,2595771,True,441,Urinary tract,Possible infection,"",""
+97501,2595884,True,4587,Lung,Definite infection,"",Directed
+72803,2597776,False,27,Urinary tract,Definite infection,"",""
+101353,2597776,False,388,Urinary tract,Definite infection,"",Directed
+97018,2597777,False,1072,Bone,Definite infection,"",Directed
+102271,2597777,False,1072,Urinary tract,Definite infection,"",Directed
+102270,2597777,False,858,Urinary tract,Definite infection,"",Directed
+97017,2597777,False,6935,Bone,Definite infection,"",Directed
+72134,2597777,False,7980,Urinary tract,Definite infection,"",""
+102267,2597777,False,6935,Urinary tract,Definite infection,"",Directed
+72133,2597777,False,8668,Urinary tract,Definite infection,"",""
+97014,2597777,False,858,Bone,Definite infection,"",Directed
+102268,2597777,False,7287,Urinary tract,Definite infection,"",Directed
+102269,2597777,False,4778,Urinary tract,Definite infection,"",Directed
+97016,2597777,False,7287,Bone,Definite infection,"",Directed
+97015,2597777,False,4778,Bone,Definite infection,"",Directed
+88302,2599455,False,662,Other,Definite infection,"",Empiric
+88301,2599455,True,2110,Other,Definite infection,"",Empiric
+83569,2600767,False,425,Lung,Definite infection,"",Empiric
+71983,2600767,True,1379,Urinary tract,Definite infection,"",""
+83568,2600767,False,428,Lung,Definite infection,"",Empiric
+73489,2600767,True,1379,Lung,Definite infection,"",""
+73931,2600791,True,537,Lung,Definite infection,"",""
+84957,2602528,True,1987,Lung,Definite infection,"",Empiric
+101731,2607275,True,1183,Urinary tract,Definite infection,"",Directed
+89089,2607501,False,3071,Unknown,Definite infection,"",Empiric
+89092,2607501,False,7212,Unknown,Definite infection,"",Empiric
+89091,2607501,False,7215,Unknown,Definite infection,"",Empiric
+89090,2607501,True,7216,Unknown,Definite infection,"",Empiric
+80231,2607501,False,46,Urinary tract,Definite infection,"",Empiric
+80230,2607501,False,236,Urinary tract,Definite infection,"",Empiric
+80233,2607501,False,228,Urinary tract,Definite infection,"",Empiric
+80058,2609672,True,55,Urinary tract,Definite infection,"",Empiric
+90614,2611237,True,69,Intra-abdominal,Possible infection,"",Empiric
+81981,2611237,False,57,Intra-abdominal,Definite infection,"",Empiric
+77318,2621632,True,987,Lung,Probable infection,"",Empiric
+90025,2627050,True,827,Lung,Possible infection,"",Empiric
+81313,2627574,True,2632,Urinary tract,Definite infection,"",Empiric
+83513,2630349,True,1796,Lung,Definite infection,"",Empiric
+83514,2630349,False,322,Lung,Definite infection,"",Empiric
+78399,2632637,True,812,Urinary tract,Probable infection,"",Empiric
+81503,2635556,True,6224,Intra-abdominal,Definite infection,"",Empiric
+77441,2635557,False,271,Lung,Probable infection,"",Empiric
+77442,2635557,False,22,Lung,Probable infection,"",Empiric
+83599,2637542,False,2913,Lung,Definite infection,"",Empiric
+83598,2637542,True,2914,Lung,Definite infection,"",Empiric
+79425,2637669,True,2579,Urinary tract,Definite infection,"",Empiric
+80809,2639649,False,82,Urinary tract,Definite infection,"",Empiric
+80808,2639649,False,1085,Urinary tract,Definite infection,"",Empiric
+80810,2639649,False,214,Urinary tract,Definite infection,"",Empiric
+76483,2642496,True,100,Skin & Soft tissue,Possible infection,"",Prophylactic
+97978,2644671,False,424,Lung,Definite infection,"",Directed
+74312,2644671,False,179,Lung,Definite infection,"",""
+86955,2644671,True,3145,Lung,Definite infection,"",Empiric
+83888,2645565,True,1388,Lung,Definite infection,"",Empiric
+106057,2705166,True,14472,Blood,Definite infection,"",""
+105467,2705166,False,1402,Lung,Definite infection,"",""
+105033,2705166,True,14472,Lung,Definite infection,"",""
+106211,2705166,False,1402,Blood,Definite infection,"",""
+108608,3009480,True,9191,Other,Definite infection,"",""
+118401,3086265,True,4995,Lung,Definite infection,"",""
+117519,3096492,True,352,Urinary tract,Definite infection,"",""
+115551,3098570,True,1532,Lung,Probable infection,"",""
+123336,3103434,False,1485,Lung,Possible infection,"",""
+115688,3119186,True,2428,Lung,Probable infection,"",""
+126665,3142620,True,836,Unknown,Definite infection,"",""
+125536,3149046,True,43,Lung,Definite infection,"",""
+126795,3150352,False,191,Wound,Definite infection,No change,""
+126794,3150353,True,279,Wound,Definite infection,No change,""
+125856,3154481,True,2379,Lung,Definite infection,"",""
+125584,3158919,True,1065,Intra-abdominal,Definite infection,"",""
