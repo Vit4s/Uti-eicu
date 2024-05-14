@@ -1,0 +1,8 @@
+table,col_var,var,col_time,modal_colect,percent_modal,mean_time
+df_lab,labname,-bands,labresultoffset,,,
+df_lab,labname,CRP,labresultoffset,,,
+df_lab,labname,ESR,labresultoffset,,,
+df_lab,labname,Temperature,labresultoffset,,,
+df_lab,labname,WBC's in urine,labresultoffset,,,
+df_lab,labname,Lactate,labresultoffset,,,
+df_lab,labname,WBC x 1000,labresultoffset,,,
